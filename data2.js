@@ -7,7 +7,7 @@ export default function Partie1(){
     const [niveu,setniveu]=useState("")
     const [vous,setvous]=useState("")
     const [text,settext]=useState("")
-    function afficher(e){
+    function afficher(e!!!!!!!!){
         e.preventDefault
         settext(Nom : ${nom} Prenom : ${prenom} Email : ${email} Apprendre : ${apprendere} Niveau : ${niveu} Vous : ${vous})
     }
